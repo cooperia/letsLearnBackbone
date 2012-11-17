@@ -1,0 +1,1 @@
+This is just a Backbone.js tutorial that I found at http://thomasdavis.github.com/2011/02/01/backbone-introduction.html. I made some modifications just to make sure that I had a decent grasp on what was going on.
